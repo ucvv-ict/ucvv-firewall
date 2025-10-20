@@ -1,5 +1,6 @@
 159.213.44.186/29 Pelago Fibra
 159.213.56.216/29 Pontassieve Comune RTRT4
+213.225.210.204/32  Pontassieve Comune Momax
 159.213.44.176/29 Reggello Fibra
 213.225.209.145/32 Protezione Civile
 213.225.220.114/32 Pelago MOMAX
