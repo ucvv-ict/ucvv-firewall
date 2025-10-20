@@ -4,6 +4,7 @@
 213.225.209.145/32 Protezione Civile
 213.225.220.114/32 Pelago MOMAX
 213.225.216.68/32 Pontassieve Nido
+213.225.210.94/32 Pontassieve magazzino
 159.213.52.18/32 San Godenzo Fibra RTRT
 213.225.217.234/32 Pelago Villino Meucci
 213.225.220.46/32 Londa Momax
