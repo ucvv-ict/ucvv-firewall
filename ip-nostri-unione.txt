@@ -1,4 +1,3 @@
-159.213.80.176/29 Londa Comune
 159.213.44.186/29 Pelago Fibra
 159.213.56.216/29 Pontassieve RTRT
 159.213.44.176/29 Reggello Fibra
