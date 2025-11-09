@@ -1,19 +1,24 @@
-159.213.44.186/29 Pelago Fibra
-159.213.56.216/29 Pontassieve Comune RTRT4
-213.225.210.204/32  Pontassieve Comune Momax
-159.213.44.176/29 Reggello Fibra
-213.225.209.145/32 Protezione Civile
-213.225.220.114/32 Pelago MOMAX
-213.225.216.68/32 Pontassieve Nido
-213.225.210.94/32 Pontassieve magazzino
-159.213.52.18/32 San Godenzo Fibra RTRT
-213.225.217.234/32 Pelago Villino Meucci
-213.225.220.46/32 Londa Momax
-213.225.213.34/32 Rufina Comune Momax
-casa.grandemello.xyz Mello da casa failover
+casa.grandemello.xyz Mello da casa (failover doppio)
 sisicazz.dyndns.org Peppone da casa
 francifabio.ddnsfree.com Fabio da casa
-159.213.56.210/32 Rufina Comune Fibra TIM
-213.225.221.47/32 Rincine Momax
-159.213.79.226/32 Unione fibra RTRT4
-159.213.80.176/29 Londa Comune
+159.213.80.178 Londa Comune Fibra RTRT
+213.225.220.46 Londa Comune MOMAX VDSL
+31.195.246.50 Londa Scuole Fibra BUL GIGAbit
+195.120.180.122 Londa Scuole Fibra BUL GIGAbit
+159.213.44.186  Pelago Comune Fibra RTRT
+213.225.220.114 Pelago Comune MOMAX FWA
+213.225.217.234 Pelago Villino Meucci MOMAX VDSL
+159.213.56.218 Pontassieve Comune Fibra RTRT
+213.225.210.204 Pontassieve Comune MOMAX VDSL
+213.225.216.68 Pontassieve Asilo Nido MOMAX VDSL
+213.225.210.94 Pontassieve Magazzino MOMAX VDSL
+213.82.137.146 Pontassieve Scuola Santa Brigida Fibra BUL GIGAbit
+159.213.44.178 Reggello Comune Fibra RTRT
+213.225.196.35 Reggello Comune MOMAX VDSL
+159.213.56.210 Rufina Comune Fibra RTRT
+213.225.213.34 Rufina Comune MOMAX VDSL
+159.213.52.18 San Godenzo Comune Fibra RTRT
+213.225.210.54 San Godenzo Comune MOMAX VDSL
+159.213.79.226 Unione Sede Fibra RTRT
+82.97.236.10 Unione Protezione Civile Fibra MOMAX GIGAbit
+213.225.221.47 Unione Rincine MOMAX FWA
