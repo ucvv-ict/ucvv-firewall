@@ -21,4 +21,4 @@ francifabio.ddnsfree.com Fabio da casa
 213.225.210.54 San Godenzo Comune MOMAX VDSL
 159.213.79.226 Unione Sede Fibra RTRT
 82.97.236.10 Unione Protezione Civile Fibra MOMAX GIGAbit
-213.225.221.47 Unione Rincine MOMAX FWA
+213.225.215.114 Unione Rincine MOMAX FWA
