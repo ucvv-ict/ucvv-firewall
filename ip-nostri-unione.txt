@@ -1,4 +1,5 @@
 casa.grandemello.xyz Mello da casa (failover doppio)
+pfsense-casa.grandemello.xyz
 sisicazz.dyndns.org Peppone da casa
 francifabio.ddnsfree.com Fabio da casa
 159.213.80.178 Londa Comune Fibra RTRT
