@@ -9,6 +9,7 @@ francifabio.ddnsfree.com Fabio da casa
 159.213.44.186  Pelago Comune Fibra RTRT
 213.225.220.114 Pelago Comune MOMAX FWA
 213.225.217.234 Pelago Villino Meucci MOMAX VDSL
+82.97.237.239 Pelago Villino Meucci fibra CLK Gigabit
 159.213.56.218 Pontassieve Comune Fibra RTRT
 213.225.210.204 Pontassieve Comune MOMAX VDSL
 213.225.216.68 Pontassieve Asilo Nido MOMAX VDSL
